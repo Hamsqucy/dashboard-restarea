@@ -1,6 +1,6 @@
 # Website Dashboard Rest Area Travoy
 
-*Sebuah website dashboard pengelolaan data rest area travoy dengan bantuan PHP, Javascript, Bootstrap, dan MySQL.*
+*The final assignment project rest area data management dashboard website for toll road company created with HTML, CSS, PHP, Bootstrap, JavaScript, and MySQL.*
 
 ## Features
 - Landing Page
@@ -23,7 +23,7 @@
 - `MySQL`
 
 ## Account
-*Gunakan Akun Ini Untuk Akses Website*
+*Use this account to access the website:*
 
 1. Admin Session
 
@@ -65,26 +65,31 @@
 <img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/assets/img-git/details.png">
 
 ## Installation
-1. Clone Repository Github Ini
+1. Clone This Github Repository
 ```
 https://github.com/Hamsqucy/dashboard-restarea.git
 ```
 
-2. Masukkan Ke Dalam Folder Htdocs
+2. Put the project into the htdocs folder
 ```
 C:\xampp\htdocs
 ```
 
-3. Buka XAMPP dan Start Apache serta MySQL
+3. Open XAMPP and turn on apache and mysql
 
-4. Buka phpmyadmin dan Buat Database serta Import File Database yang ada pada Folder `database` yang bernama `jmrb.sql`
+4. Open phpmyadmin and create a database and name it `jrmb`
 ```
 http://localhost/phpmyadmin
 ```
-5. Masukkan URL Ini Pada Browser
+
+5. Import the database file in the `database` folder which contains a database file called `jrmb.sql`
+
+6. Open this URL in your browser
 ```
 http://localhost/dashboard-restarea/
 ```
+
+*Note: Adjust the XAMPP port used*
 
 ## Credit
 > Ilham Alqudsi | Web Developer
