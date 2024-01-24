@@ -39,30 +39,30 @@
 
 ## Documentation
 1. Landing Page
-<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/landing.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/assets/img-git/landing.png">
 
 1. Login Page
-<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/login-1.png">
-<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/login-2.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/assets/img-git/login-1.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/assets/img-git/login-2.png">
 
 2. Main Page
-<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/main-1.png">
-<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/main-2.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/assets/img-git/main-1.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/assets/img-git/main-2.png">
 
 3. Read (Table) Page
-<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/table.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/assets/img-git/table.png">
 
 4. Create Page
-<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/create.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/assets/img-git/create.png">
 
 5. Update Page
-<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/update.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/assets/img-git/update.png">
 
 6. Print View
-<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/print.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/assets/img-git/print.png">
 
 7. Details Page
-<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/details.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/assets/img-git/details.png">
 
 ## Installation
 1. Clone Repository Github Ini
