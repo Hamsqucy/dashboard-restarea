@@ -38,44 +38,52 @@
 | danung123 | 12345 |
 
 ## Documentation
+1. Landing Page
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/landing.png">
+
 1. Login Page
-<img src="https://github.com/Hamsqucy/dashboard-sisko/blob/master/img/login.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/login-1.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/login-2.png">
 
 2. Main Page
-<img src="https://github.com/Hamsqucy/dashboard-sisko/blob/master/img/main.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/main-1.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/main-2.png">
 
 3. Read (Table) Page
-<img src="https://github.com/Hamsqucy/dashboard-sisko/blob/master/img/table.png">
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/table.png">
 
-4. Create View
-<img src="https://github.com/Hamsqucy/dashboard-sisko/blob/master/img/create.png">
+4. Create Page
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/create.png">
 
-5. Update View
-<img src="https://github.com/Hamsqucy/dashboard-sisko/blob/master/img/update.png">
+5. Update Page
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/update.png">
 
-6. Print View 
-<img src="https://github.com/Hamsqucy/dashboard-sisko/blob/master/img/print.png">
+6. Print View
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/print.png">
+
+7. Details Page
+<img src="https://github.com/Hamsqucy/dashboard-restarea/blob/master/img-git/details.png">
 
 ## Installation
 1. Clone Repository Github Ini
 ```
-https://github.com/Hamsqucy/dashboard-sisko.git
+https://github.com/Hamsqucy/dashboard-restarea.git
 ```
 
-2. Masukkan Ke Dalam Htdocs
+2. Masukkan Ke Dalam Folder Htdocs
 ```
 C:\xampp\htdocs
 ```
 
-3. Buka XAMPP dan nyalakan Apache serta MySQL
+3. Buka XAMPP dan Start Apache serta MySQL
 
-4. Buka phpmyadmin dan Buat Database serta Import File Database yang ada pada Folder `database` yang bernama `sisko_db.sql`
+4. Buka phpmyadmin dan Buat Database serta Import File Database yang ada pada Folder `database` yang bernama `jmrb.sql`
 ```
 http://localhost/phpmyadmin
 ```
 5. Masukkan URL Ini Pada Browser
 ```
-http://localhost/sisko/
+http://localhost/dashboard-restarea/
 ```
 
 ## Credit
